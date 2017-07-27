@@ -19,7 +19,7 @@ Puis parce que l'on veut la terre profiter de notre super site, nous allons le m
 Pour bien débuter, il faut faire nos bases :
 
 - crée donc un nes projet rails appelé thp-corsaires
-- il va te falloir faire un `bundle install` du Gemfile, mais il faut un Gemfile compatible Heroku. Voici un joli [exemple](/files/Gemfile)
+- il va te falloir faire un `bundle install` du Gemfile, mais il faut un Gemfile compatible Heroku. Voici un joli [exemple](files/Gemfile)
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
