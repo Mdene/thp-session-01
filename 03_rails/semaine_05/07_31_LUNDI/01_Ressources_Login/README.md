@@ -1,10 +1,10 @@
-##Récap
+## Récap
 Tu vas voir ces dans ces chapitres comment se login, utiliser des cookies, afin de créer des sessions d'utilisateurs.
 
-##Durée estimée
+## Durée estimée
 - 2h au total
 
-##Ressources
+## Ressources
 
 - Fais [le chapitre 8](https://www.railstutorial.org/book/basic_login) du tutoriel de Michael Hartl. J'ai fait [une version vidéo](https://youtu.be/Z1Rt-JlvIVk) pour les amateurs
 - Fais [le chapitre 9](https://www.railstutorial.org/book/advanced_login) du tutoriel de Michael Hartl. J'ai fait [une version vidéo]() pour les amateurs
