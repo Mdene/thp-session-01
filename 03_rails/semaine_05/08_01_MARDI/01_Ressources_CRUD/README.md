@@ -7,3 +7,4 @@ Tu vas voir ces dans ces chapitres comment se login, utiliser des cookies, afin 
 ## Ressources
 
 - Fais [le chapitre 10](https://www.railstutorial.org/book/updating_and_deleting_users) du tutoriel de Michael Hartl. J'ai fait [une version vidéo](https://youtu.be/BgtrW0S-VNs) pour les amateurs
+  - Désolaaaaaaaaay pour le son, mon micro est hyper naze et je m'en suis rendu compte une fois la vidéo terminée 😥
