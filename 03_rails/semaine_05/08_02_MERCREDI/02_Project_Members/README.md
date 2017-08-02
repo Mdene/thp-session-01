@@ -66,8 +66,3 @@ Le login par session c'est faible? Fais un login avec des cookies permanents.
 
 #### 2. Restriction, niveau BG
 Actuellement, tous les utilisateurs peuvent aller éditer les pages de tout le monde. Fais en sorte que les pages d'édition de profil ne peuvent être accédées que par les utilisateurs concernés (et qui doivent être login bien entendu). On me dit dans mon oreillette que la variable `current_user` te sera utile 😉
-
-
-model user, login, logout liens
-session, cookies pour les champions
-restreindre l'accès à la page 42, restreindre l'accès à l'edit pour les champions
