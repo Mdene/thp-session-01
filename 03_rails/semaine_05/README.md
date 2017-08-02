@@ -24,7 +24,7 @@ Projets : members only, version maison.
 ### 4. Jeudi
 Schémas relationnels de DB afin de relier les utilisateurs avec les microposts.
 
-Projet : Eventbrite like
+Projet : pimper un peu The_Gossip_Project
 
 ### 5. Vendredi
 Schémas relationnels avancés : many to many. Découverte de la gem Devise
