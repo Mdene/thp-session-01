@@ -18,7 +18,7 @@ Projet : amélioration de The_Gossip_Project afin de restreindre l'accès aux in
 ### 3. Mercredi
 Authentification des users avec les emails.
 
-Projets : envoyer des emails.
+Projets : members only, version maison.
 
 
 ### 4. Jeudi
