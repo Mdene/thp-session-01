@@ -61,7 +61,7 @@ end
 Jouer avec des formulaires et des params est l'un des parties les plus intéressantes de Rails donc je te laisse trouver ton bonheur ❤️
 
 ### J'ai fini, quoi d'autre ?
-Nous nous faits infiltrer par 42, et maintenant les élèves de 42 peuvent balancer des gossips. Crée une classe `NageurDuDimanche`, qui aura en attribut un `username`. Un NageurDuDimanche pourra publier plusieurs Gossips, mais un gossip sera lié soit à un Corsair, soit à un NageurDuDimanche. En gros tu devras faire la même relation qu'entre les corsairs et les gossips. C'est pour t'entrainer à faire des migrations et de lier des models entre eux !
+Nous nous sommes faits infiltrer par 42, et maintenant les élèves de 42 peuvent balancer des gossips. Crée une classe `NageurDuDimanche`, qui aura en attribut un `username`. Un NageurDuDimanche pourra publier plusieurs Gossips, mais un gossip sera lié soit à un Corsair, soit à un NageurDuDimanche. En gros tu devras faire la même relation qu'entre les corsairs et les gossips. C'est pour t'entrainer à faire des migrations et de lier des models entre eux !
 
 Tu peux faire un formulaire de création de corsair et/ou de NageurDuDimanche, pimper un peu le site !
 
