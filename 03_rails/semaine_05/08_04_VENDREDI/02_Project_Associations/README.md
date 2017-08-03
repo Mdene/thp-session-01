@@ -29,7 +29,7 @@ Un `appointment` ne peut avoir qu'un seul `doctor`, mais un `doctor` peut avoir 
 Si tu as bien suivi, il se peut que ce soit un exemple utilisé par [la doc](http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association). C'est une excellente introduction à ce chapitre. Je t'invite à créer les models, et de faire le migrations.
 
 #### Tester
-Pour tester, tu peux aller dans la console, créer des `doctor`, `patient`, et `appointment` à la volée, puis les lier avec la sémantique que tu as utilisée. 
+Pour tester, tu peux aller dans la console, créer des `doctor`, `patient`, et `appointment` à la volée, puis les lier avec la sémantique que tu as utilisée.
 
 ⚠️ Comment les `doctor` et les `patient` sont liés au format array, faire `doctor.patients.last_name` te renverra une erreur 😉
 
@@ -61,7 +61,7 @@ Cela fait un peu mal à la tête, mais voici les trois model :
 Si tu as bien suivi, il y aura un model en plus : celui entre les catégories et les utilisateurs. Nous te laissons choisir le nom. 
 
 ### Pimp des docteurs
-Ta startup de docteurs marche à merveille, tellement que tu aimerais ajouter plusieurs table :
+Ta startup de docteurs marche à merveille, tellement que tu aimerais ajouter plusieurs tables :
 
 - `city` : un docteur, un patient, et un rendez-vous appartiennent tous à une `city`. Une city peut avoir plusieurs docteurs, patients, et rendez-vous
 - tu voudrais virer la ligne `specialty` de ta table `doctor` et la remplacer par un model à part entière : tu vas donc créer un model `specialty`. Un docteur aurait plusieurs `specialty` (DEAL_WITH_IT), et une `specialty` pourrait concerner plusieurs `doctor`
