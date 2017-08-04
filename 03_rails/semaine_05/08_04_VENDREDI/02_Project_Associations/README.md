@@ -49,7 +49,7 @@ Comme la dernière fois, pour tester il te faudra aller en console pour faire de
 #### Le pitch
 Après avoir conquis le monde avec des applications de promenades, tu veux t'attaquer à un marché qui explose : les vidéos en ligne. Tu connais personnellement Charly et Féfé, deux stars montantes de Youtube, et ils pourraient faire un excellent produit d'appel pour ta plateforme.
 
-Voici comment tu verrais la plateforme : il y aurait des `user`, qui peuvent mettre en ligne des `video`. Une `video` a un auteur : un `user`. Une vidéo appartient à une seule `category`, mais une `category` peut concerner plusieurs `video`. Enfin, un `user` peut s'inscrire à plusieurs `category`, et une `category` peut être suivie par plusieurs `user`. 
+Voici comment tu verrais la plateforme : il y aurait des `user`, qui peuvent mettre en ligne des `video`. Une `video` a un auteur : un `user`. Une vidéo appartient à une seule `category`, mais une `category` peut concerner plusieurs `video`. Enfin, un `user` peut s'inscrire à plusieurs `category`, et une `category` peut être suivie par plusieurs `user`.
 
 Cela fait un peu mal à la tête, mais voici les trois model :
 
