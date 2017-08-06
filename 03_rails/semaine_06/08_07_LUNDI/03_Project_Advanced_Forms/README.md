@@ -28,7 +28,7 @@ La classe `Airport` `belongs_to` deux fois à notre classe `Flights` : via le `a
 Une fois que tu as fait tes classes, je t'invite à vérifier en console que tout marche bien.
 
 #### B. Seeds
-Tu vas ensuite utiliser le fichier seeds.rb pour créer en base pleeeeeeein de `flight`. Le but est d'avoir quelques trajets pour que notre recherche ne soit pas super vide. Puis tu peux mettre en base dans la classe `airport` les dis plus grands aéroports d'Europe.
+Tu vas ensuite utiliser le fichier seeds.rb pour créer en base pleeeeeeein de `flight`. Le but est d'avoir quelques trajets pour que notre recherche ne soit pas super vide. Puis tu peux mettre en base dans la classe `airport` les dix plus grands aéroports d'Europe.
 
 Pour le seed des `flights`, pas besoin de se prendre la tête : crée les avec une fonction qui prend un aéroport de départ au hasard, un aéroport d'arrivée au hasard, une durée au hasard (lol le Paris - Amsterdam direct en 10h), puis une date prise au hasard entre aujourd'hui et dans une semaine.
 
@@ -80,7 +80,16 @@ Nous voudrions que lorsque les résultats de la reccherche s'affichent, le site 
 Tu vas devoir créer un formulaire pour `booking/new`, avec un _radio button_ pour chaque résultat de la recherche, puis en fin de boucle `each` un _submit button_. Nous te conseillons de mettre le nombre de `passengers` en hidden field : tu pourras le récupérer facilement.
 
 #### C. Who ?
-Une fois que la personne va sur `booking/new`, nous allons l'accueillir avec un récap dtu trajet qu'elle a sélectionné. Il nous faudra juste remplir autant de formulaires qu'il y a de passagers, pour que nouis puissions rentrer tout ceci en base. Pense aux _nested forms_ que je t'ai donnés en lien aujourd'hui 😉
+Une fois que la personne va sur `booking/new`, nous allons l'accueillir avec un récap du trajet qu'elle a sélectionné. Il nous faudra juste remplir autant de formulaires qu'il y a de passagers, pour que nouis puissions rentrer tout ceci en base. Pense aux _nested forms_ que je t'ai donnés en lien aujourd'hui 😉
 
 
+### Partie 4 : bah, c'est fini 😎
+Une fois le formulaire avec les passengers soumis, tu es quasiment à la fin. Tu peux rediriger vers booking/show qui affiche tous les détails du vol.
 
+Voilà, tu as bien manipulé les formulaires, tu peux être fier de toi. Si jamais tu t'ennuies un peu trop, voici quelques exemples d'exercices pour aller plus loin : 
+
+#### A. Simple_form
+Remplce tous les form_tags par des simple_form.
+
+#### B. À la caisse 💰
+TU peux intégrer un module de paiement avec Paypal ou Stripe.
