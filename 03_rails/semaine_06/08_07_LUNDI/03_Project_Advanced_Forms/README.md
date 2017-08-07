@@ -53,7 +53,7 @@ Une fois que ton formulaire te renvoie la bonne array, nous allons afficher cett
 
 ```erb
 <% if params[:TA_RECHERCHE_TROP_COOL] %>
-	<p>Le forumaire vient d'être soumis c'est de la 💣</p>
+	<p>Le formukaire vient d'être soumis c'est de la 💣</p>
 <% else %>
 	<p>Je n'ai toujours pas appuyé sur le submit button 🚨</p>
 <% end %>
