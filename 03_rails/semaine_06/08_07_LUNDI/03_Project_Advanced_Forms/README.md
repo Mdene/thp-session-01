@@ -23,7 +23,7 @@ Le système sera simple : nous allons faire une recherche parmi tous nos `flight
 - une classe `Flight`, qui a une `duration` (en minutes), une `departure_date`, un `departure_airport` et un `arrival_airport`
 - une classe `Airport`, qui a un `airport_code` (CDG, SFO, etc etc)
 
-La classe `Airport` `belongs_to` deux fois à notre classe `Flights` : via le `arrival_airport`, et le `departure_airport`. Comment faire ceci ? Nos amis de The Odin Project ont fait un [super cours](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-associations) à ce sujet, dans la partie _Foreign Keys and Class Names_. Nous te conseillons de t'en inspirer 🙃
+La classe `Flight` `belongs_to` deux fois à notre classe `Airport` : via le `arrival_airport`, et le `departure_airport`. Comment faire ceci ? Nos amis de The Odin Project ont fait un [super cours](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-associations) à ce sujet, dans la partie _Foreign Keys and Class Names_. Nous te conseillons de t'en inspirer 🙃
 
 Une fois que tu as fait tes classes, je t'invite à vérifier en console que tout marche bien.
 
