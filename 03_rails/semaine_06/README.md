@@ -19,9 +19,7 @@ Tu feras une version _shippable_ de The_Gossip_Project : la Gem Devise te fera g
 ### 3. Mercredi
 📅 **Introduction to Rake Routes & Paths, by @coquillette** : À 11h, Aurélie nous fera un hangout où elle expliquera la puissance de l’outil Rake Routes, que tout le monde nous dit d’utiliser, mais dont nous ne comprenons pas pourquoi. Ce sera au format “cours intéractif”, où elle montrera le concept et pourra répondre à vos questions. Puis si elle a un peu de temps, elle pourra répondre à des questions plus générales.
 
-📅 **Paris Ruby Workshop** : À 19h, il y a le Meetup Paris Workshop Ruby, qui se tient mensuellement. C’est un super moment où l’on peut faire un peu de Ruby et rencontrer des pros, et boire des bières. [Voici le lien](https://www.meetup.com/fr-FR/Paris-Ruby-Workshop/events/236870511/)
-
-À partir de 19h15, il y a le [Ruby Workshop Meetup](https://www.meetup.com/fr-FR/Paris-Ruby-Workshop/events/236870511/) un super moment où plein de débutants et experts codent ensemble en Ruby. De plus, le workshop se fait à Talent.io, un de nos partenaires. Si vous cherchez du taf en tant que devs après la formation, on pourra faire quelques présentations.
+📅 **Paris Ruby Workshop** : À partir de 19h15, il y a le [Ruby Workshop Meetup](https://www.meetup.com/fr-FR/Paris-Ruby-Workshop/events/236870511/) un super moment où plein de débutants et experts codent ensemble en Ruby. De plus, le workshop se fait à Talent.io, un de nos partenaires. Si vous cherchez du taf en tant que devs après la formation, on pourra faire quelques présentations.
 
 Une notion importante mercredi : l'asset pipeline. Tu vas découvrir comment ajouter du CSS, du Javascript, et/ou des framwork de CSS.
 
