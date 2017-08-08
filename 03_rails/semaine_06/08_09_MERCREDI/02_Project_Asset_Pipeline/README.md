@@ -34,6 +34,8 @@ On va passer aux choses sérieuses. Fais un nouveau projet `rails-bootstrap`, et
 
 Par exemple tu dois avoir en ligne [cette navbar](http://getbootstrap.com/components/#navbar-default) mentionnée dans la doc.
 
+⚠️ : Attention à bien mettre tes `require` dans le bon ordre. Tu pourras trouver une explication dans la partie `Import Bootstrap Javascript assets` de [cet article](https://launchschool.com/blog/integrating-rails-and-bootstrap-part-1)
+
 #### 5.2 Custom CSS et JavaScript
 Maintenant, tu vas ajouter un peu de JavaScript et de CSS que tu auras défini. Idem, des trucs simples comme `background-color: black;` et `alert("yeah JS marche")` feront l'affaire. Le but est d'arriver à push le site sur Heroku.
 
