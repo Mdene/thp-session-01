@@ -1,6 +1,8 @@
 ## Récap
 Là tu es en train de te dire : c'est cool Rails, mais comment je fais pour y mettre le code de mon scrapper de l'infini ? Remplir les controller et y mettre des méthodes `scrap_mairies` n'est pas très clean, donc nous allons voir un truc cool qui s'appelle les _services_. Les services sont une feature de Rails (pour changer) qui permettent d'y mettre du PORO (Plain Old Ruby Objects), c'est à dire du code Ruby, que tu pourras appeler où tu veux dans Rails. Plutôt cool, non ?
 
+Puis nous allons voir brièvement une introduction aux APIs.
+
 ## Durée estimée
 1h, en comptant le petit exercice
 
@@ -32,3 +34,8 @@ Tu peux appeler tes services où tu veux. Par exemple dans tes controllers, avec
 
 - NetGuru ont fait un [bon article](https://www.netguru.co/blog/service-objects-in-rails-will-help) qui explique les services
 - Rob Race a fait aussi [un bon article](https://hackernoon.com/service-objects-in-ruby-on-rails-and-you-79ca8a1c946e) sur les services
+
+## APIs
+
+- Voici [un article](https://www.theodinproject.com/courses/ruby-on-rails/lessons/working-with-external-apis) de The Odin Project qui explique brièvement quelques termes pour les APIs
+- Si tu veux aller plus loin sur les APIs, Zapier ont fait [un excellent e-book](https://cdn.zapier.com/storage/learn_ebooks/e06a35cfcf092ec6dd22670383d9fd12.pdf) de ~80 pages qui explique l'univers des APIs
