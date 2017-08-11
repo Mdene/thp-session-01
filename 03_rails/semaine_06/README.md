@@ -1,4 +1,4 @@
-# Semaine 05 - Rails des champions
+# Semaine 06 - Rails des champions
 Et voilà, tu as fini le bouquin de Hartl. Cette semaine nous allons voir les thématiques avancées de Rails. Ainsi tu pourras implémenter des features dans tes sites qui feront de toi un pro du MVP : la gem Devise, qui s'occupe de refaire tout le livre de Hartl, jouer avec des APIs car les services externes c'est le bien, faire des formulaires avancés, et d'autres !
 
 ## Programme
