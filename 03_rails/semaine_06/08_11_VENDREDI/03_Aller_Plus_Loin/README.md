@@ -18,6 +18,3 @@ Voici quelques listes d'articles qui listent les Gem (presque) aussi sympa que D
 - Dans le même genre, [Drifting Ruby](https://www.youtube.com/channel/UCxJaNyXCQw0mghY0hA1wA9w) propose pas mal de vidéos très sympa pour se mettre au fait de concepts de Rails
 - [Ruby Thursday](https://rubythursday.com/) propose chaque jeudi des exercices pour se tenir au fait de Ruby on Rails
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) est une _curated list_ avec énormément d'outils dans pas mal de thématiques
-
-## Une liste de ressources
-
