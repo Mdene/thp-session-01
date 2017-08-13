@@ -9,4 +9,4 @@ Les ressources sont ici à titre indicatif. Tu t'en serviras sûrement pour le p
 ## Projet
 Dans ce projet, tu vas devoir recréer [la page d'une vidéo Youtube](https://www.youtube.com/watch?v=V74l_zS1x8E). C'est une excellente introduction à l'insertion de média, et cela va te redonner des bases solides en mise en page.
 
-![youtube page](bla)
+![youtube page](https://github.com/TheHackingProject/thp-session-01/blob/master/04_HTML_CSS/semaine_07/08_14_LUNDI%7C%7CMARDI/files/youtube.png)
