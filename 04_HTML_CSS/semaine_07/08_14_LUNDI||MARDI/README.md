@@ -26,6 +26,7 @@ On va t'aider dans les étapes :
 - essaie de voir l'architecture de la page : quels seront les divs qui vont être ensemble, comment seront regroupés les principaux éléments
 - fais les divs, positionne-les, donne-leur la bonne taille. 
   - Conseil : `background-color` sur un div est une arme redoutable pour savoir leur forme, taille, position
+  - Conseil bis : l'inspecteur d'éléments est ton meilleur ami ✌️
 - maintenant fais les éléments dans l'ordre suivant :
   - la vidéo principale, dans laquelle tu embed une vidéo de ton choix
   - la barre latérale, dans laquelle tu vas mettre les images des _thumbnails_ des vidéos, et le texte sur le côté (titre, auteur, etc)

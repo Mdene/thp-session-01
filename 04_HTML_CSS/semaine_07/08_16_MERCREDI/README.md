@@ -5,31 +5,26 @@ Tu vas revenir dans l'univers merveilleux des formulaires.
 Les ressources sont ici à titre indicatif. Tu t'en serviras sûrement pour le projet et comme la meilleure façon de savoir coder est de s'entrainer, ne prends pas plus d'une heure pour tout appréhender. Survole donc ces lectures, tu t'en serviras en temps voulu 😉
 
 - Shay Howe a fait [un bon récap](http://learn.shayhowe.com/html-css/building-forms/) sur les formulaires HTML
-- MDN ont fait [une introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form) sur les formulaires
+- W3Schools [aussi](https://www.w3schools.com/css/css_form.asp)
+
 
 ## Projet
 Dans ce projet, tu vas devoir recréer [la page de signup de Mint.com](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms). C'est une page assez chouette qui va te faire apprendre ce bel univers des formulaires.
 
 ![mint page](https://github.com/TheHackingProject/thp-session-01/blob/master/04_HTML_CSS/semaine_07/08_16_MERCREDI/files/mint.jpg)
 
-Tu vas donc de voir insérer une vidéo qui est embed, ainsi que les images qui réprésentent les aperçus sur la barre latérale de YouTube. Il y a beaucoup d'élément qui sont fait avec du JavaScript, que tu n'as pas à faire (on verra JS la semaine prochaine). Dès qu'un élément réagit au click, c'est du JS.
+Le but de cette page est de te faire faire un formulaire, et de le pimper pour qu'il ressemble à quelque chose.
 
-Aussi, pas besoin de faire le site en mobile friendly. On verra lundi prochain comment le faire responsive. Pour le moment concentre-toi sur la mise en page.
+Comme d'habitude, pas besoin de toucher au JS (notamment toutes les parties de validation), ni en mobile responsive.
 
 ### Les étapes
 On va t'aider dans les étapes :
 
-- fais un nouveaux projet rails `youtube` (tu as cru que tu allais esquiver Rails ? 😎)
-- controller home, methode index, toussa toussa
+- fais un nouveaux projet rails `formulaire-stylay`
+- pour t'entrainer, nous allons faire en sorte que le formulaire inscrive des user en BDD. Tu vas devoir créer un model user, ainsi qu'un controller pour le signup
+- teste rapidement un formulaire sans CSS pour voir si ça marche. Si tu galères trop, bah ne branche ton formulaire à rien
 - essaie de voir l'architecture de la page : quels seront les divs qui vont être ensemble, comment seront regroupés les principaux éléments
-- fais les divs, positionne-les, donne-leur la bonne taille. 
+- fais les divs, positionne-les, donne-leur la bonne taille.
   - Conseil : `background-color` sur un div est une arme redoutable pour savoir leur forme, taille, position
-- maintenant fais les éléments dans l'ordre suivant :
-  - la vidéo principale, dans laquelle tu embed une vidéo de ton choix
-  - la barre latérale, dans laquelle tu vas mettre les images des _thumbnails_ des vidéos, et le texte sur le côté (titre, auteur, etc)
-  - le titre de la vidéo principale, la description
-- Tu commences à avoir une page sympa. Tu peux maintenant mettre un commentaire ou deux pour la forme, et t'attaquer au header
-- Si tu te sens très chaud, tu peux faire l'un de ces deux bonus-stage :
-  - utilise un Youtube Downloader pour télécharger une vidéo de ton choix (courte, pour pas qu'elle pèse 500Mo), puis au lieu d'embed pour la vidéo principale une vidéo Youtube, arrange-toi pour héberger la vidéo et la jouer avec un lecteur média
-  - quand tu _hover_ les _thumbnails_ des vidéos de la barre latérale, tu constates qu'il y a un petit gif qui donne un aperçu de la vidéo en cours. Arrange-toi pour que ce gif apparaisse dans ton site
-- tu n'as plus qu'à push sur heroku ta merveille de site internet 🔥
+  - Conseil bis : l'inspecteur d'éléments est ton meilleur ami ✌️
+- tu n'as plus qu'à les remplir 🔥
