@@ -1,18 +1,16 @@
-# Lundi || Mardi
-L'un de ces jours, tu vas te remettre dans le bain merveilleux de HTML / CSS en faisant la page vidéo d'une vidéo YouTube.
+# Mercredi
+Tu vas revenir dans l'univers merveilleux des formulaires.
 
 ## Ressources
 Les ressources sont ici à titre indicatif. Tu t'en serviras sûrement pour le projet et comme la meilleure façon de savoir coder est de s'entrainer, ne prends pas plus d'une heure pour tout appréhender. Survole donc ces lectures, tu t'en serviras en temps voulu 😉
 
-- The Odin Project ont fait [un bon récap](https://www.theodinproject.com/courses/html5-and-css3/lessons/html5-basics) sur les bases de HTML / CSS
-- W3Schools ont fait [un article](https://www.w3schools.com/html/html_images.asp) sur comment insérer des images
-- Ils ont fait [un article aussi sur l'embed des vidéos YouTube](https://www.w3schools.com/html/html_youtube.asp)
-- Cela peut toujours servir : [voici comment créer](https://www.w3schools.com/howto/howto_css_fixed_menu.asp) un header qui est _fixed_
+- Shay Howe a fait [un bon récap](http://learn.shayhowe.com/html-css/building-forms/) sur les formulaires HTML
+- MDN ont fait [une introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form) sur les formulaires
 
 ## Projet
-Dans ce projet, tu vas devoir recréer [la page d'une vidéo Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ). C'est une excellente introduction à l'insertion de média, et cela va te redonner des bases solides en mise en page.
+Dans ce projet, tu vas devoir recréer [la page de signup de Mint.com](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms). C'est une page assez chouette qui va te faire apprendre ce bel univers des formulaires.
 
-![youtube page](https://github.com/TheHackingProject/thp-session-01/blob/master/04_HTML_CSS/semaine_07/08_14_LUNDI%7C%7CMARDI/files/youtube.jpg)
+![mint page](https://github.com/TheHackingProject/thp-session-01/blob/master/04_HTML_CSS/semaine_07/08_16_MERCREDI/files/mint.jpg)
 
 Tu vas donc de voir insérer une vidéo qui est embed, ainsi que les images qui réprésentent les aperçus sur la barre latérale de YouTube. Il y a beaucoup d'élément qui sont fait avec du JavaScript, que tu n'as pas à faire (on verra JS la semaine prochaine). Dès qu'un élément réagit au click, c'est du JS.
 
