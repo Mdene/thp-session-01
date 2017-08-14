@@ -9,7 +9,7 @@ Voici comment le programme se déroulera : nous allons te donner des projets à 
 Ce programme peut être modifié
 
 ### 1. Lundi / Mardi
-Un de ces deux jours-là (mardi est férié, mais ptet que tu ne seras pas là dimanche), tu devras refaire une page d'une vidéo Youtube, afin de te remettre dans le bain du CSS, et pour t'apprendre à Embed des vidéos.
+Un de ces deux jours-là (mardi est férié, mais ptet que tu ne seras pas là lundi), tu devras refaire une page d'une vidéo Youtube, afin de te remettre dans le bain du CSS, et pour t'apprendre à Embed des vidéos.
 
 ### 2. Mercredi
 📅 **Félix' Office Hours** : de 10h à 12h, Félix sera sur Appear pour répondre à vos questions, donner des précisions sur des concepts, revenir sur un vieil exo que vous n’avez pas forcément compris.
@@ -27,7 +27,7 @@ Vendredi tu vas faire des landing pages : comme ça tu sauras faire des sites st
 ## Ressources ?
 Voici les ressources que nous allons utiliser pour HTML / CSS :
 
-- [W3Schools](https://www.w3schools.com/) est une mine d'or d'informations pour HTML / CSS avec moults exemples. Ils ont d'excellents articles qui expliquent comment utiliser certains concepts avec une excellente introduction. Dès que je veux connapitre une nouvelle notion en front, W3Schools est mon site go-to
+- [W3Schools](https://www.w3schools.com/) est une mine d'or d'informations pour HTML / CSS avec moults exemples. Ils ont d'excellents articles qui expliquent comment utiliser certains concepts avec une excellente introduction. Dès que je veux connaître une nouvelle notion en front, W3Schools est mon site go-to. Leur page [how-to](https://www.w3schools.com/howto/) est bourrée d'exemples précis qui te serviront
 - Google et Stack Overflow répondront à toutes tes questions. "how to center a div", "how to embed video", "absolute vs relative position", etc
 
 
