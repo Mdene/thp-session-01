@@ -27,5 +27,5 @@ Voici quelques étapes
 - une fois que tu as le squelette des divs, on te donne un ordre pour les remplir, à titre indicatif
   - l'article principal
   - le header
-  -le footer
+  - le footer
 - tu n'as plus qu'à remplir [le formulaire de complétion](https://goo.gl/forms/qek6iEDIEdHCHWoc2)
