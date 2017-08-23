@@ -10,7 +10,7 @@ Aujourd'hui, tu vas faire un projet pour t'entraîner avec jQuery.
 ## Projet
 Dans ce projet tu vas faire une landing page express de restaurant avec un système de tabulation. Tu auras un onglet `Présentation`, un ongle `menu` et un onglet de ton choix. Et il est possible de changer d'onglets en cliquant dessus, un peu comme le gif suivant :
 
-# image
+![Gif d'animation](https://github.com/TheHackingProject/thp-session-01/blob/master/05_JavaScript/semaine_08/08_25_VENDREDI/files/tabs.gif?raw=true)
 
 _Note : j'ai utilisé Semantic-UI, donc la fonction que j'ai utilisée avait des petites animations. Tu n'es pas obligé.e de les reproduire, il te faut juste réussir à faire le changement de tabss._
 
