@@ -11,6 +11,12 @@ Aujourd'hui, tu vas faire un projet pour t'entraîner avec jQuery.
 Dans ce projet tu vas faire une landing page express de restaurant avec un système de tabulation. Tu auras un onglet `Présentation`, un ongle `menu` et un onglet de ton choix. Et il est possible de changer d'onglets en cliquant dessus, un peu comme le gif suivant :
 
 ![Gif d'animation](https://github.com/TheHackingProject/thp-session-01/blob/master/05_JavaScript/semaine_08/08_25_VENDREDI/files/tabs.gif?raw=true)
-_Note : j'ai utilisé Semantic-UI, donc la fonction que j'ai utilisée avait des petites animations. Tu n'es pas obligé.e de les reproduire, il te faut juste réussir à faire le changement de tabss._
+
+_Note : j'ai utilisé Semantic-UI, donc la fonction que j'ai utilisée avait des petites animations. Tu n'es pas obligé.e de les reproduire, il te faut juste réussir à faire le changement de tabs._
 
 Pour ce projet, il existe des libraries puissantes comme jQuery UI, ou même Bootstrap qui proposent une fonction `.tabs()` qui font tout le travail. Dans le futur nous allons évidemment les utiliser, mais pour cet exercice qui te fait comprendre l'intérêt de la manipulation des DOMs, *il est interdit de s'en servir*, et tu ne devras utiliser que les fonctions de base de jQuery.
+
+Pour ce projet, nous te demandons bien évidemment de le faire dans un projet Rails, afin que tu apprennes à charger l'asset pipeline.
+
+### J'ai fini ?
+Si tu finis un peu en avance et que tu as encore envie de réfléchir, tu peux continuer [la série d'exercices](http://www.w3resource.com/jquery-exercises/part1/index.php) de manipulation de DOMs que nous vous avions donnée en début de formation.
