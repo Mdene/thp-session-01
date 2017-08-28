@@ -11,14 +11,18 @@ Lundi tu vas continuer à faire du jQuery.
 Mardi tu vas voir les callbacks, une techno qui fait la puissance de JavaScript.
 
 ### 3. Mercredi
+📅 **Félix' Office Hours** : de 10h à 12h, Félix sera en ligne pour répondre à vos questions, donner des précisions sur des concepts, revenir sur un vieil exo que vous n’avez pas forcément compris.
+
 Mercredi tu vas manipuler des APIs pour tes sites internet, et notamment la célébrissime API de Google Maps.
 
 ### 4. Jeudi
+📅 **Projet validant** : Le projet de jeudi est validant.
 Jeudi tu vas découvrir l'AJAX qui permet de faire des appels à ta BDD sans rafraichir la page web.
 
-Le projet de jeudi est validant.
 
 ### 5. Vendredi
+📅 **Soirée** : [On fait la fête tous ensemble vendredi soir](https://www.facebook.com/events/338511439925361/)
+
 Vendredi tu vas découvrir Node.js, une version de JavaScript qui permet de faire de grandes choses.
 
 ## Après ?
