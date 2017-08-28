@@ -1,5 +1,5 @@
 # Mardi
-Aujourd'hui, tu vas découvrir l'univers merveilleux des callbakcs.
+Aujourd'hui, tu vas découvrir l'univers merveilleux des callbacks.
 
 ## Ressources
 La grande différence entre JavaScript et un langage séquentiel type ruby, est que JavaScript n'exécute pas les fonctions ligne après ligne, mais il exécute tout en même temps. C'est en effet très pratique pour le front : notre site va en même temps attendre que l'utilisateur clique sur `Send credentials`, et il va aussi attendre qu'il clique sur `tab 2`, en même temps. Et transposer ça en séquentiel aurait été bien galère.
