@@ -5,7 +5,7 @@ Le projet est validant. [Voici le formulaire](https://goo.gl/forms/oHTVuqf5sMAiB
 
 ## Ressources
 
-- Tutorials Point ont fait [une très bonne introduction](https://www.tutorialspoint.com/ruby-on-rails/rails-and-ajax.htmRuby ) à AJAX que nous t'invitons à suivre
+- Tutorials Point ont fait [une très bonne introduction](https://www.tutorialspoint.com/ruby-on-rails/rails-and-ajax.htm) à AJAX que nous t'invitons à suivre
 - LaunchSchool ont fait un [super tutoriel](https://launchschool.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails) pour apprendre les bases de l'AJAX. Nous t'invitons à le suivre
 - RubyPlus ont fait [un autre tutorial](https://rubyplus.com/articles/4211-Using-Ajax-and-jQuery-in-Rails-5-Apps) sur l'AJAX. Tu n'es pas obligé de le suivre, mais nous t'invitons à au moins le lire
 
